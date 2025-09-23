@@ -1,5 +1,13 @@
 # Pyxel Games
 
+## Screenshot
+- Ballon
+- <img width="320" height="240" alt="pyxel-20250914-094125" src="https://github.com/user-attachments/assets/777cb4bb-93b2-4464-8faa-32338c74bc29" />
+
+- Space80
+- <img width="320" height="240" alt="pyxel-20250921-114405" src="https://github.com/user-attachments/assets/c7171f66-d46c-4b35-a782-837a80569901" />
+
+
 このリポジトリには、2つの Pyxelレトロディスプレイがあります。
 ただ眺めて懐かしむためのものです
 
