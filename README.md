@@ -7,17 +7,19 @@
 
 
 
-このリポジトリには、3つの Pyxelレトロディスプレイがあります。
+このリポジトリには、4つの Pyxelレトロディスプレイがあります。
 ただ眺めて懐かしむためのものです
 
-This repository contains three Pyxel retro display games.  
+This repository contains four Pyxel retro display games.  
 They are for nostalgic enjoyment and just watching.
 
 ## ゲーム一覧　Games
+- `lsi.py`    : 80年代初期のLSI風デモ
 - `casset.py` : 敵が空間に落ちていくといった設定のカセットビジョン風デモ
 - `ballon.py` : バルーンゲーム スーパーカセットビジョン風
 - `space80.py` : 宇宙ゲームというか、適当あまり有名ではないシューティングゲーム的なもの
 
+- `lsi.py`    : A demo in the style of early 80s LSI games"
 - `casset.py`: A Cassette Vision-style demo where enemies fall through space
 - `ballon.py` : Balloon game, Super Cassette Vision style
 - `space80.py` : Space game, a simple shooting game, not very famous
@@ -29,4 +31,4 @@ They are for nostalgic enjoyment and just watching.
 
 1. Install Python 3.x
 2. Install Pyxel: `pip install pyxel`
-3. Run: `python casset.py` or `python ballon.py` or `python space80.py`
+3. Run: `python lsi.py` or `python casset.py` or `python ballon.py` or `python space80.py`
