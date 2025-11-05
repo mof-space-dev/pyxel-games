@@ -1,10 +1,9 @@
 # Pyxel Games
 
 ## Screenshot
-| Casset | Ballon | Space80 | LSI |
-|--------|--------|---------|-----|
-| <img width="320" height="240" alt="pyxel-20251002-114157" src="https://github.com/user-attachments/assets/3b267795-b2d2-4787-8841-e09063e02e0d" /> | <img width="320" height="240" alt="pyxel-20250914-094125" src="https://github.com/user-attachments/assets/777cb4bb-93b2-4464-8faa-32338c74bc29" /> | <img width="320" height="240" alt="pyxel-20250921-114405" src="https://github.com/user-attachments/assets/c7171f66-d46c-4b35-a782-837a80569901" /> | <img width="320" height="240" alt="lsi-demo" src="https://github.com/user-attachments/assets/<img width="256" height="320" alt="pyxel-20251105-175841" src="https://github.com/user-attachments/assets/31aeae0b-be8d-4426-8c4a-364b5d1d8512" />
- |
+| LSI | Casset | Ballon | Space80 |
+|-----|---------|--------|----------|
+| <img width="256" height="320" alt="pyxel-20251105-175841" src="https://github.com/user-attachments/assets/31aeae0b-be8d-4426-8c4a-364b5d1d8512" /> | <img width="320" height="240" alt="pyxel-20251002-114157" src="https://github.com/user-attachments/assets/3b267795-b2d2-4787-8841-e09063e02e0d" /> | <img width="320" height="240" alt="pyxel-20250914-094125" src="https://github.com/user-attachments/assets/777cb4bb-93b2-4464-8faa-32338c74bc29" /> | <img width="320" height="240" alt="pyxel-20250921-114405" src="https://github.com/user-attachments/assets/c7171f66-d46c-4b35-a782-837a80569901" /> |
 
 
 
