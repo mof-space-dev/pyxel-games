@@ -1,4 +1,5 @@
 import pyxel
+import random
 
 # SCREEN LSI
 pyxel.init(128, 160, title="Early 80'S LSI", fps=60)
@@ -27,6 +28,10 @@ boss_missile_y = boss_y + 6
 boss_missile_active = False
 boss_missile_delay = 0
 boss_missile_fired = False
+
+# 星の座標(ランダム)
+STAR_COUNT = 100
+stars = [(random.randint(0, 128-1), random.randint(0, 160-1),random.randint(1, 7)) for _ in range(STAR_COUNT)]
 
 # 攻撃カウント
 count = 0  # タイトルからスタート
@@ -179,6 +184,7 @@ def update():
                 if bgm_playing:
                     pyxel.stop(1)
                     bgm_playing = False
+                
                 count = 4        # 点滅クリアへ
                 frame_count = 0  # CLEAR点滅開始
         if missile_y < 0:
@@ -190,6 +196,7 @@ def update():
         if frame_count < CLEAR_DURATION:
             if frame_count % 10 < 5:
                 pyxel.play(0, 5)
+            
         else:
             frame_count > CLEAR_DURATION + CLEAR_HOLD
             pyxel.stop()
@@ -204,6 +211,8 @@ def update():
 def draw():
     pyxel.cls(0)
     pyxel.text(100, 5, f"{score:03}", 3)
+    for x, y, col in stars:
+        pyxel.pset(x, y, col)
     draw_boss(boss_x, boss_y)
     draw_ship(ship_x, ship_y)
 
