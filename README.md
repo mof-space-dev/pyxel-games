@@ -1,10 +1,13 @@
-# Pyxel Games
-
+# Pyxel games
 ## Screenshot
 
-| RPG | LSI | Casset | Ballon | Space80 |
-|-----|-----|--------|--------|----------|
-| <img width="480" height="240" alt="pyxel-RPG" src="https://github.com/user-attachments/assets/10c483fc-9c15-4ac5-9611-156b78283c32" /> | <img width="256" height="320" alt="pyxel-LSI" src="https://github.com/user-attachments/assets/31aeae0b-be8d-4426-8c4a-364b5d1d8512" /> | <img width="320" height="240" alt="pyxel-Casset" src="https://github.com/user-attachments/assets/3b267795-b2d2-4787-8841-e09063e02e0d" /> | <img width="320" height="240" alt="pyxel-Ballon" src="https://github.com/user-attachments/assets/777cb4bb-93b2-4464-8faa-32338c74bc29" /> | <img width="320" height="240" alt="pyxel-Space80" src="https://github.com/user-attachments/assets/c7171f66-d46c-4b35-a782-837a80569901" /> |
+| Countdown | RPG | LSI |
+|-----------|-----|-----|
+| <img width="320" height="240" alt="pyxel-countdown" src="https://github.com/user-attachments/assets/d2217746-bc29-44f8-85e5-23c308c2ebab" /> | <img width="320" height="240" alt="pyxel-RPG" src="https://github.com/user-attachments/assets/10c483fc-9c15-4ac5-9611-156b78283c32" /> | <img width="256" height="320" alt="pyxel-LSI" src="https://github.com/user-attachments/assets/31aeae0b-be8d-4426-8c4a-364b5d1d8512" /> |
+| Casset | Ballon | Space80 |
+| <img width="320" height="240" alt="pyxel-Casset" src="https://github.com/user-attachments/assets/3b267795-b2d2-4787-8841-e09063e02e0d" /> | <img width="320" height="240" alt="pyxel-Ballon" src="https://github.com/user-attachments/assets/777cb4bb-93b2-4464-8faa-32338c74bc29" /> | <img width="320" height="240" alt="pyxel-Space80" src="https://github.com/user-attachments/assets/c7171f66-d46c-4b35-a782-837a80569901" /> |
+
+
 
 
 
