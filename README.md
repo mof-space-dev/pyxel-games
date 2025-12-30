@@ -21,12 +21,14 @@ This repository contains five Pyxel retro display games.
 They are for nostalgic enjoyment and just watching.
 
 ## ゲーム一覧　Games
+- `count_down.py`    : 新年カウントダウンレースなディスプレーです。音が耳コピ ジッピーレース
 - `rpg.py`    : 80年代RPG風コミカルデモ 原案は80年代から90年初期に雑誌で話題だった北方謙三氏の名言
 - `lsi.py`    : 80年代初期のLSI風デモ
 - `casset.py` : 敵が空間に落ちていくといった設定のカセットビジョン風デモ
 - `ballon.py` : バルーンゲーム スーパーカセットビジョン風
 - `space80.py` : 宇宙ゲームというか、適当あまり有名ではないシューティングゲーム的なもの
 
+- `count_down.py`    :New Year countdown race display.Sound recreated by ear (inspired by Zippy Race). "
 - `rpg.py`    : 80s-style comical RPG demo, inspired by a popular quote from Kenshō Kitakata in 80s–90s magazines.
 - `lsi.py`    : A demo in the style of early 80s LSI games"
 - `casset.py`: A Cassette Vision-style demo where enemies fall through space
