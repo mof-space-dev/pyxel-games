@@ -42,4 +42,4 @@ They are for nostalgic enjoyment and just watching.
 
 1. Install Python 3.x
 2. Install Pyxel: `pip install pyxel`
-3. Run: `python lsi.py` or `python casset.py` or `python ballon.py` or `python space80.py`
+3. Run: `python --.py` 
