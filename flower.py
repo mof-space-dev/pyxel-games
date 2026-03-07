@@ -83,7 +83,7 @@ ending_sound_played = False
 
 # 初期化
 def init_game():
-    global flower_x, flower_y, flower_speed, flower_center_col, item_type,round_count, bee_x, bee_y
+    global flower_x, flower_y, flower_speed, flower_center_col, item_type,round_count, bee_x, bee_y, bee_speed
     
     flower_x = random.randint(10, 150)
     flower_y = 0
@@ -102,6 +102,7 @@ def init_game():
         
     flower_speed = 1
     flower_center_col = random.choice([6, 8, 14])
+    bee_speed = 1
     
 # 描画
 def draw_title():
@@ -174,7 +175,7 @@ def draw_game():
         
         # 黒ストライプ
         pyxel.line(bee_x + 3, bee_y, bee_x + 3, bee_y + 4, 0)
-        pyxel.line(bee_x + 6, bee_y, bee_x + 3, bee_y + 4, 0)
+        pyxel.line(bee_x + 6, bee_y, bee_x + 6, bee_y + 4, 0)
         
         # お尻
         pyxel.pset(bee_x + 9, bee_y + 2, 0)
@@ -239,7 +240,7 @@ def ending():
 
 # 更新    
 def update():
-    global scene, scene_frame, flower_x, flower_y, char_x,char_y, score, catch_timer, round_count, message,bee_x, bee_y, message_color, bee_speed, bee_hit, final_stopped, stop_frame, princess_x, princess_y, end_message, bgm_playing, end_start_frame
+    global scene, scene_frame, flower_x, flower_y, char_x,char_y, score, catch_timer, round_count, message,bee_x, bee_y, message_color, bee_speed, bee_hit, final_stopped, stop_frame, princess_x, princess_y, end_message, bgm_playing, end_start_frame, ending_sound_played
     
     scene_frame += 1
     
@@ -419,6 +420,7 @@ def update():
             flowers.clear()
             round_count = 0
             score = 0
+            ending_sound_played = False
             scene = SCENE_TITLE
             scene_frame = 0
                 
