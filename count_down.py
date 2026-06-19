@@ -20,7 +20,7 @@ show_message = False
 confetti = []
 confetti_active = False
 
-pyxel.init(width, height, title="COUNT DOWN RUN")
+pyxel.init(width, height, title="STRAGHT RUN")
 
 # 音を読み込む
 pyxel.load("car_sound.pyxres")
@@ -98,14 +98,14 @@ def draw():
     pyxel.line(40, 0, 40, height, 11)
     pyxel.line(120, 0, 120, height, 11)
     
-    pyxel.text(123, 20, "COUNTDOWN", 7)
+    pyxel.text(123, 20, "STRAIGHT", 7)
     pyxel.text(135, 28, "RUN", 7)
     pyxel.text(125, 100, "(c) MOF", 7)
     
     # 時間制御
     if pyxel.frame_count < 60:
         if (pyxel.frame_count // 10) % 2 == 0:
-            pyxel.text(width / 2 - 30, height / 2, "COUNT DOWN RUN", 7)
+            pyxel.text(width / 2 - 20, height / 2, "STRAGHT RUN", 7)
     else:
       if show_start:
         pyxel.text(width / 2 - 15, height / 2, "START!", 7)
@@ -121,6 +121,6 @@ def draw():
             pyxel.rect(p["x"], p["y"], 2, 2, p["col"])
             
     if show_message:
-        pyxel.text(width / 2 - 40, height / 2 - 4, "A HAPPY NEW YEAR 2026", 8)
+        pyxel.text(width / 2 - 30, height / 2 - 4, "This is the way", 15)
     
 pyxel.run(update, draw)
