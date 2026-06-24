@@ -196,9 +196,10 @@ def update():
         if frame_count < CLEAR_DURATION:
             if frame_count % 10 < 5:
                 pyxel.play(0, 5)
+        elif frame_count < CLEAR_DURATION + CLEAR_HOLD:
+            pass
             
         else:
-            frame_count > CLEAR_DURATION + CLEAR_HOLD
             pyxel.stop()
             # リセット
             count = 0  # タイトルに戻る
