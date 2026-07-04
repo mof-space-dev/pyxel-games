@@ -10,9 +10,10 @@
 | BLACK HOLE | Ballon |
 |--------|--------|
 | <img width="320" height="240" alt="blackhole" src="https://github.com/user-attachments/assets/2c1f2979-5fb2-473b-a8b6-86db7137e7e9" /> | <img width="320" height="240" alt="pyxel-Ballon" src="https://github.com/user-attachments/assets/777cb4bb-93b2-4464-8faa-32338c74bc29" /> |
-| Space80 |  |
+| SPACE DRIVE 198X |  |
 |---------|--|
-| <img width="320" height="240" alt="pyxel-Space80" src="https://github.com/user-attachments/assets/c7171f66-d46c-4b35-a782-837a80569901" /> |  |
+| <img width="320" height="240" alt="space_drive" src="https://github.com/user-attachments/assets/88e534a5-67e7-4e7f-9412-16d4429a1280" />
+ |  |
 
 
 
