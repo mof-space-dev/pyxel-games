@@ -4,7 +4,7 @@ WIDTH, HEIGHT = 160, 120
 
 class RetroDemo:
     def __init__(self):
-        pyxel.init(WIDTH, HEIGHT, title="Retro Demo 1980", fps=30)
+        pyxel.init(WIDTH, HEIGHT, title="SPACE DRIVE 198X", fps=30)
         self.stars = [(random.randint(0, WIDTH-1),
                        random.randint(0, HEIGHT-1),
                        random.choice([1, 2]))
@@ -44,11 +44,15 @@ class RetroDemo:
                 pyxel.line(0, y, WIDTH, y, 1)
             
             # タイトルロゴ
-            pyxel.text(40, 40, "RETRO WAVE", 8)
-            pyxel.text(39, 39, "RETRO WAVE", 10)
-            pyxel.text(38, 38, "RETRO WAVE", 7)
+            pyxel.text(29, 41, "SPACE DRIVE 198X", 13) # 影
+            pyxel.text(28, 40, "SPACE DRIVE 198X", 2)
             
-            # サブテキスト
-            pyxel.text(55, 73, "Press Start?", pyxel.frame_count % 16)
+            
+        # サブテキスト
+        slow_color = (pyxel.frame_count // 4) % 16
+        pyxel.text(55, 90, "Press Start?", slow_color)
+        
+        # スコア表示
+        pyxel.text(100, 4, "HI-SCORE 99999", 10)
             
 RetroDemo()
