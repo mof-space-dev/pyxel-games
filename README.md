@@ -35,7 +35,7 @@ They are for nostalgic enjoyment and just watching.
 - `lsi.py`    : 80年代初期のLSI風デモ
 - `blackhole.py` : 敵がブラックホールに落ちていくといった設定のカセットビジョン風デモ
 - `ballon.py` : バルーンゲーム スーパーカセットビジョン風
-- `space80.py` : 宇宙ゲームというか、適当あまり有名ではないシューティングゲーム的なもの
+- `space80.py` : クソゲー感漂うタイトル画面
 
 - `flowers.py` : Catch flowers and deliver them to your dream princess!
 - `count_down.py`    :New Year countdown race display.Sound recreated by ear (inspired by Zippy Race). "
@@ -43,7 +43,7 @@ They are for nostalgic enjoyment and just watching.
 - `lsi.py`    : A demo in the style of early 80s LSI games"
 - `blackhole.py`: A Cassette Vision-style demo where enemies fall through blackhole
 - `ballon.py` : Balloon game, Super Cassette Vision style
-- `space80.py` : Space game, a simple shooting game, not very famous
+- `space80.py` : A title screen with pure "kusoge" vibes
 
 ## 遊び方というか眺め方　How to play / view
 1. Python 3.x をインストール
