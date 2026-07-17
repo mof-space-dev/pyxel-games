@@ -17,7 +17,7 @@
 
 
 
-このリポジトリには、7つの Pyxelレトロディスプレイがあります。
+このリポジトリには、8つの Pyxelレトロディスプレイがあります。
 ただ眺めて懐かしむためのものです
 
 This repository contains five Pyxel retro display games.  
