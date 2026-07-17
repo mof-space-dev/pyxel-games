@@ -3,7 +3,7 @@
 
 | Pong | FlowersCatch | Countdown |
 |------|--------------|-----------|
-| <img width="320" height="240" alt="pong" src="スクリーンショットのURLをここに" /> | <img width="320" height="240" alt="flowers" src="https://github.com/user-attachments/assets/ebf5f3e4-e320-45d4-a6ac-8c69300e81a4" /> | <img width="320" height="240" alt="pyxel-countdown" src="https://github.com/user-attachments/assets/d2217746-bc29-44f8-85e5-23c308c2ebab" /> |
+| <img width="320" height="240" alt="pong" src="<img width="256" height="256" alt="pyxel-20260717-174212" src="https://github.com/user-attachments/assets/72a19c75-37a0-44e7-9f48-69bc7cb937ce" />" /> | <img width="320" height="240" alt="flowers" src="https://github.com/user-attachments/assets/ebf5f3e4-e320-45d4-a6ac-8c69300e81a4" /> | <img width="320" height="240" alt="pyxel-countdown" src="https://github.com/user-attachments/assets/d2217746-bc29-44f8-85e5-23c308c2ebab" /> |
 | RPG | LSI | BLACK HOLE |
 |-----|-----|------------|
 | <img width="320" height="240" alt="pyxel-RPG" src="https://github.com/user-attachments/assets/10c483fc-9c15-4ac5-9611-156b78283c32" /> | <img width="256" height="320" alt="pyxel-LSI" src="https://github.com/user-attachments/assets/31aeae0b-be8d-4426-8c4a-364b5d1d8512" /> | <img width="320" height="240" alt="blackhole" src="https://github.com/user-attachments/assets/2c1f2979-5fb2-473b-a8b6-86db7137e7e9" /> |
