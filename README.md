@@ -10,9 +10,10 @@
 | BLACK HOLE | Ballon |
 |--------|--------|
 | <img width="320" height="240" alt="blackhole" src="https://github.com/user-attachments/assets/2c1f2979-5fb2-473b-a8b6-86db7137e7e9" /> | <img width="320" height="240" alt="pyxel-Ballon" src="https://github.com/user-attachments/assets/777cb4bb-93b2-4464-8faa-32338c74bc29" /> |
-| Space80 |  |
+| SPACE DRIVE 198X |  |
 |---------|--|
-| <img width="320" height="240" alt="pyxel-Space80" src="https://github.com/user-attachments/assets/c7171f66-d46c-4b35-a782-837a80569901" /> |  |
+| <img width="320" height="240" alt="space_drive" src="https://github.com/user-attachments/assets/88e534a5-67e7-4e7f-9412-16d4429a1280" />
+ |  |
 
 
 
@@ -34,7 +35,7 @@ They are for nostalgic enjoyment and just watching.
 - `lsi.py`    : 80年代初期のLSI風デモ
 - `blackhole.py` : 敵がブラックホールに落ちていくといった設定のカセットビジョン風デモ
 - `ballon.py` : バルーンゲーム スーパーカセットビジョン風
-- `space80.py` : 宇宙ゲームというか、適当あまり有名ではないシューティングゲーム的なもの
+- `space80.py` : クソゲー感漂うタイトル画面
 
 - `flowers.py` : Catch flowers and deliver them to your dream princess!
 - `count_down.py`    :New Year countdown race display.Sound recreated by ear (inspired by Zippy Race). "
@@ -42,7 +43,7 @@ They are for nostalgic enjoyment and just watching.
 - `lsi.py`    : A demo in the style of early 80s LSI games"
 - `blackhole.py`: A Cassette Vision-style demo where enemies fall through blackhole
 - `ballon.py` : Balloon game, Super Cassette Vision style
-- `space80.py` : Space game, a simple shooting game, not very famous
+- `space80.py` : A title screen with pure "kusoge" vibes
 
 ## 遊び方というか眺め方　How to play / view
 1. Python 3.x をインストール
