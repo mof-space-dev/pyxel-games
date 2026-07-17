@@ -1,7 +1,7 @@
 # Pyxel games
 ## Screenshot
 
-| Pong | FlowersCatch | Countdown |
+| Pong？ | FlowersCatch | Countdown |
 |------|--------------|-----------|
 | <img width="256" height="256" alt="pong" src="https://github.com/user-attachments/assets/72a19c75-37a0-44e7-9f48-69bc7cb937ce" /> | <img width="320" height="240" alt="flowers" src="https://github.com/user-attachments/assets/ebf5f3e4-e320-45d4-a6ac-8c69300e81a4" /> | <img width="320" height="240" alt="pyxel-countdown" src="https://github.com/user-attachments/assets/d2217746-bc29-44f8-85e5-23c308c2ebab" /> |
 | RPG | LSI | BLACK HOLE |
@@ -24,6 +24,7 @@ This repository contains five Pyxel retro display games.
 They are for nostalgic enjoyment and just watching.
 
 ## ゲーム一覧　Games
+- `pong.py`    : pong?です。シンプル＆コミカル！
 - `flowers.py`    : お花摘みゲームです。憧れのプリンセスへ
 - `count_down.py`    : 新年カウントダウンレースなディスプレーです。音が耳コピ ジッピーレース
 - `rpg.py`    : 80年代RPG風コミカルデモ 原案は80年代から90年初期に雑誌で話題だった北方謙三氏の名言
@@ -32,6 +33,7 @@ They are for nostalgic enjoyment and just watching.
 - `ballon.py` : バルーンゲーム スーパーカセットビジョン風
 - `space80.py` : クソゲー感漂うタイトル画面
 
+- `pongs.py` : Simple and comical Pong!
 - `flowers.py` : Catch flowers and deliver them to your dream princess!
 - `count_down.py`    :New Year countdown race display.Sound recreated by ear (inspired by Zippy Race). "
 - `rpg.py`    : 80s-style comical RPG demo, inspired by a popular quote from Kenshō Kitakata in 80s–90s magazines.
